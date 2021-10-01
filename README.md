@@ -1,7 +1,7 @@
 # Desafio de Projeto Git/GitHub da DIO
 Repositório criado para o Desafio de projeto sobre Git/GitHub.
 
-Neste desafio estarei linkando os projetos e desafios desenvolvidos durante o meu aprendizado na plataforma da [Digital Innovation One](https://web.digitalinnovation.one/) e os links úteis mencionados pelos instrutores da plataforma e os que pesquisei, como forma de enriquecimento no aprendizado.
+Neste desafio estarei linkando os projetos e desafios desenvolvidos durante o aprendizado na plataforma da [Digital Innovation One](https://web.digitalinnovation.one/), além dos links úteis mencionados pelos instrutores e os que garimpei ao longo da jornada.
 
 ## Projetos desenvolvidos através da plataforma da DIO
 - **[Introdução ao Git e GitHub - Livro de Receitas](https://github.com/dsouzarogerio/livro-receitas)**
